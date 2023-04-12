@@ -1,0 +1,51 @@
+.logo {
+  width: 100px;
+  height: 75px;
+}
+
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 5px;
+  display: flex;
+}
+
+.nav-items > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+}
+
+.card {
+  width: 300px;
+  border: 1px solid #000;
+  margin: 10px;
+  padding: 20px;
+}
+
+.card > img {
+  width: 100%;
+}
+
+.restaurant-list {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.shimmer-card {
+  width: 300px;
+  height: 300px;
+  background: #f3f2f2;
+  margin: 20px;
+  padding: 10px;
+}
+
+.menu {
+  display: flex;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
